@@ -11,3 +11,5 @@ Some facts about me:
 - My goals for 2025: landing my dream job in data and getting a dog.
 
 Feel free to contact me on GitHub or LinkedIn.
+
+My email address is johnfowledwyer@gmail.com.
