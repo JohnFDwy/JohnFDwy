@@ -13,3 +13,5 @@ Some facts about me:
 Feel free to contact me on GitHub or LinkedIn.
 
 My email address is johnfowledwyer@gmail.com.
+
+Projects: https://github.com/JohnFDwy/Data_projects_2024
